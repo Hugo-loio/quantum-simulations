@@ -1,6 +1,6 @@
 # Quantum simulations
 
-This is a landing page for my computational projects for research in quantum many-body physics.
+This is a landing page for my computational projects related to research in quantum many-body physics.
 
 Below you will find a list of packages and libraries created to perform numerical simulations.
 Each entry has a short description and cites the published works in which the code was used.
@@ -12,6 +12,7 @@ Since the projects were created for personal use, there is a lack of documentati
  
 * [ed-circuits](https://github.com/Hugo-loio/ed-circuits) - A Julia package for the exact diagonalization (ED) simulation of quantum circuits [^magic25][^mipt_mps24].
 * [monitored-fermions](https://github.com/Hugo-loio/monitored-fermions) - A Python package for simulating monitored fermionic systems (both Gaussian and interacting) [^syk25][^purification23].
+* [stim-deep-thermalization](https://github.com/Hugo-loio/stim-deep-thermalization) - A python package to compute projected ensembles and frame potentials using the stabilizer formalism [^magic25].
 * [lasap](https://github.com/Hugo-loio/lasap) - A package with an interface for Python, Julia, and C++ to create a uniform data storage system with built-in post-processing tools.
 Does not perform simulations, but aids in data handling, especially for parallelized tasks running in HPC clusters [^magic25][^correlations25][^mipt_mps24][^syk25].
 
