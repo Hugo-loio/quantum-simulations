@@ -1,8 +1,8 @@
-# Research simulations
+# Quantum simulations
 
 This is a landing page for my computational projects for research in quantum many-body physics.
 
-Below you will find a list of packages and libraries created to perform high-performance simulations.
+Below you will find a list of packages and libraries created to perform numerical simulations.
 Each entry has a short description and cites the published works in which the code was used.
 Since the projects were created for personal use, there is a lack of documentation, although the code should be readable, and some examples are provided.
 
@@ -12,8 +12,8 @@ Since the projects were created for personal use, there is a lack of documentati
 
 * [ed-circuits](https://github.com/Hugo-loio/ed-circuits) - A Julia package for the exact diagonalization (ED) simulation of quantum circuits [1,3].
 * [monitored-fermions](https://github.com/Hugo-loio/monitored-fermions) - A Python package for simulating monitored fermionic systems (both Gaussian and interacting) [4,5].
-* [lasap](https://github.com/Hugo-loio/lasap) - A package with an interface for Python, Julia, and C++ to create a uniform data storage system with built-in post-processing tools [1-5].
-Does not perform simulations, but aids in data handling, especially for parallelized tasks running in HPC clusters.
+* [lasap](https://github.com/Hugo-loio/lasap) - A package with an interface for Python, Julia, and C++ to create a uniform data storage system with built-in post-processing tools.
+Does not perform simulations, but aids in data handling, especially for parallelized tasks running in HPC clusters [1-5].
 
 ## Master's thesis project
 * [TIM](https://github.com/Hugo-loio/TIM) - Topological Insulator Models (TIM) provides a C++ library for tight-binding models of topological insulators [6].
