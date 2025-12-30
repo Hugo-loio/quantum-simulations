@@ -20,6 +20,7 @@ Since the projects were created for personal use, there is a lack of documentati
 * [TIM](https://github.com/Hugo-loio/TIM) - Topological Insulator Models (TIM) provides a C++ library for tight-binding models of topological insulators [^totai24].
 
 ## Extra tools
+* [tensordraw](https://github.com/Hugo-loio/tensordraw) - A Python package for easily and rigorously drawing tensor network diagrams.
 * [lasap](https://github.com/Hugo-loio/lasap) - A package with an interface for Python, Julia, and C++ to create a uniform data storage system with built-in post-processing tools.
 Does not perform simulations, but aids in data handling, especially for parallelized tasks running in HPC clusters.
 
